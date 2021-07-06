@@ -1,1 +1,1 @@
-# rsschool-cv
+https://parkura.github.io/rsschool-cv/
