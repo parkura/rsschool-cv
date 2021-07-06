@@ -11,7 +11,7 @@
 
 4. Skills - Html, CSS, Javascript basics, PHP basics, Sass basics, Bootstrap, Jquery basics,  BEM, Git, Github, Linux LPIC-1. 
 
-5. PHP session check
+5. PHP POST method check with session
 
     if(isset($_POST['name']) &&  isset($_POST['email']) && isset($_POST['date']) ) {
         $_SESSION['name'] = $_POST['name'];
